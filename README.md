@@ -4,6 +4,8 @@
 
 **作者：观复居士 ·商务合作：13148728713；微信号：guanfujs**
 
+[![SkillHub](https://img.shields.io/badge/下载-SkillHub-orange)](https://www.skillhub.cn/skills/dewan-video-qc)
+
 **English**: Automated pre-publish quality checks for short videos — platform-specific checks with ready-to-run fix commands, silence removal, contact-sheet / single-frame extraction, multi-aspect adaptation (9:16 / 1:1 / 4:5 / 3:4), media probing and loudness checks. Runs fully locally.
 
 ---
